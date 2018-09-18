@@ -30,6 +30,7 @@
 - [Computer-Vision](#computer-vision)
 - [Data Science](#data-science)
 - [Udacity](#udacity)
+- [Data Sets](#data-sets)
 
 
 ## Machine-Learning
@@ -60,6 +61,11 @@
 ## Udacity
 
 - [Udacity Nano Degrees](https://github.com/mikesprague/udacity-nanodegrees) - A free list of content used in Udacity's nano degrees.
+
+
+## Data-Sets
+
+- [Datasets Categorised](https://elitedatascience.com/datasets#) - A curated list of free datasets for data science and machine learning, organized by their use case.
 
 
 
