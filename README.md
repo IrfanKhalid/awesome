@@ -25,11 +25,11 @@
 
 ## Contents
 
-- [Machine-Learning](#Machine-Learning)
-- [Deep-Learning](#Deep-Learning)
-- [Computer-Vision](#Computer-Vision)
-- [Data Science](#Data-Science)
-- [Udacity](#Udacity)
+- [Machine-Learning](#machine-learning)
+- [Deep-Learning](#deep-learning)
+- [Computer-Vision](#computer-vision)
+- [Data Science](#data-science)
+- [Udacity](#udacity)
 
 
 ## Machine-Learning
